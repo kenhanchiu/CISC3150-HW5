@@ -1,1 +1,10 @@
-Ken Han ChiuCISC 3150HW #51. 1. a. The public String call(int k) method from the Dog class is being called.     b. The public String toString() method from the Cat class is being called.    c. The lines of code caused an error.    d. The lines of code printed the address of where p was stored.    e. The public String call() method from the Dog class is being called.    f. The public String toString(String b) method from the Cat class is being called.    g.   The lines of code caused an error. There wasn’t a function named call that          accepted an int parameter.                        h. The public String feet() method from the Pet class is being called.   i. The lines of code caused an error. There isn’t a method call() in class Pet that accepts an int pareameter.
+Ken Han ChiuCISC 3150HW #51. 1. a. The public String call(int k) method from the Dog class is being called. 
+	 This example is overloading.    b. The public String toString() method from the Cat class is being called.       This example is overriding/polymorphism.	
+    c. The lines of code caused an error.
+	This example is an error.    d. The lines of code printed the address of where p was stored.
+	This example is not overriding/polymorphism, overloading, or an error.    e. The public String call() method from the Dog class is being called.
+	This example is overriding/polymorphism.    f. The public String toString(String b) method from the Cat class is being called.
+	This example is not overriding/polymorphism, overloading, or an error. It is just calling a function.    g.   The lines of code caused an error. There wasn’t a function named call that          accepted an int parameter.  
+	This example is an error.                      h. The public String feet() method from the Pet class is being called.
+	This example is overriding/polymorphism.   i. The lines of code caused an error. There isn’t a method call() in class Pet that accepts an int pareameter.
+	This example is an error.
